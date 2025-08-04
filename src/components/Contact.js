@@ -45,12 +45,8 @@ const Contact = () => {
           <form className="contact-form" action="https://formsubmit.co/hamzabeji001@gmail.com" method='POST'>
             <div className="form-group name-row">
               <div className="form-group">
-                <label htmlFor="firstName" >First Name</label>
+                <label htmlFor="firstName" > Name</label>
                 <input type="text" id="firstName" name="firstName" />
-              </div>
-              <div className="form-group">
-                <label htmlFor="lastName">Last Name</label>
-                <input type="text" id="lastName" name="lastName" />
               </div>
             </div>
             <div className="form-group">
