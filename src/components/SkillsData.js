@@ -22,6 +22,9 @@ const skillsData = [
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
         
       },
+      { name: 'Bootstrap', 
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg' },
+
     ],
   },
   {
